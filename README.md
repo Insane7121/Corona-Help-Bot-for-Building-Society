@@ -2,9 +2,9 @@
 The **Corona Help Bot** is designed to provide helpful information about COVID-19 to residents of your building society. It can answer common queries, provide prevention tips, help you find hospitals nearby, and even send email and SMS alerts.
 
 ## Requirements
-pyttsx3==2.90
-SpeechRecognition==3.8.1
-twilio==7.0.0  # Required only if using the SMS feature
+- **pyttsx3**==2.90
+- **SpeechRecognition**==3.8.1
+- **twilio**==7.0.0  # Required only if using the SMS feature
 
 ## Features
 
